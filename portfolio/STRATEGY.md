@@ -4,7 +4,7 @@
 
 ## 1. The thesis
 
-Offline small businesses in India already pay for software (Petpooja, Vyapar and Classplus each have large paying bases). What they still lack is a cheap, simple way to **turn walk-in customers into repeat customers**. A QR code in the shop, phone capture with consent, and WhatsApp follow-up do exactly that. The same loop works in a restaurant, gym, salon, garage or PG, so one platform ([core](../core/README.md)) can serve 11 verticals.
+Offline small businesses in India already pay for software (Petpooja, Vyapar and Classplus each have large paying bases). What they still lack is a cheap, simple way to **turn walk-in customers into repeat customers**. A QR code in the shop, phone capture with consent, and WhatsApp follow-up do exactly that. The same loop works in a restaurant, gym, salon, garage or PG, so one platform ([core](https://github.com/craftLayer-studio/craftlayer-core/blob/main/README.md)) can serve 11 verticals.
 
 ## 2. Portfolio at a glance
 
@@ -12,17 +12,17 @@ Prices are per outlet per month, excluding GST, from each product's `docs/05-pri
 
 | Product | Vertical | Tagline | Main plan | Price range | Top competitors |
 |---|---|---|---|---|---|
-| [DineLoop](../dineloop/README.md) | Restaurants, cafes, bars, cloud kitchens | Every table becomes a till, a waiter and a marketing channel. | Growth Rs 2,499 | Rs 999 to 4,999 + Rs 4,999 setup | Petpooja, DotPe, Thrive |
-| [RepVault](../repvault/README.md) | Gyms, yoga and fitness studios | Scan in, show up, renew on time. | Growth Rs 1,999 | Rs 999 to 3,499 | FitnessForce, Wellyx, Gymdesk |
-| [TurfTime](../turftime/README.md) | Turfs, box cricket, courts, gaming cafes | Your own booking app, zero commission. | Growth Rs 2,999 | Rs 0 + Rs 19/booking to Rs 5,499 | Playo, Hudle, KheloMore |
-| [GlowDesk](../glowdesk/README.md) | Salons, spas, barbershops | Fill every chair, bring every client back. | Growth Rs 1,499 | Free to Rs 2,999 | DINGG, Invoay, Fresha |
-| [CareQueue](../carequeue/README.md) | Clinics, dental, physio, labs, vets | Wait from anywhere. Your token comes to your phone. | Clinic Rs 1,499 | Rs 699 to 2,999 | Practo Ray, Healthray, eSushrut@Clinic |
-| [StayBell](../staybell/README.md) | Small hotels, homestays, guest houses | Every room rings you directly. | Direct Rs 2,499 | Rs 999 to 4,999 | eZee Absolute, Djubo, Desktell |
-| [NestKeep](../nestkeep/README.md) | PGs, hostels, co-living | Full beds, rent on time, zero chasing. | Rs 20 to 35 per bed | min Rs 499 | RentOk, Stayqa, Room Rover |
-| [ShelfMate](../shelfmate/README.md) | Kirana, general stores, pharmacies | Your shop on every customer's WhatsApp. | Dukaan Pro Rs 699 | Free to Rs 999 | Khatabook/OkCredit, Vyapar, myBillBook |
-| [WashTrack](../washtrack/README.md) | Laundry, dry cleaners | Every garment tagged, every customer updated. | Growth Rs 1,299 | Rs 599 to 2,999 | QDC, Fabklean, Laundry Grow |
-| [ClassNest](../classnest/README.md) | Coaching, tuition, academies | Every student marked, every parent informed, every fee collected. | Growth Rs 1,799 | Rs 999 to 3,499 | Classplus, Teachmint, Edmingle |
-| [GaragePilot](../garagepilot/README.md) | Car/bike garages, car wash, detailing | Digital job cards, WhatsApp approvals, service reminders. | Workshop Rs 2,399 | Rs 1,199 to 4,499 | GaragePlug, Autorox, Tekmetric |
+| [DineLoop](https://github.com/craftLayer-studio/dineloop/blob/main/README.md) | Restaurants, cafes, bars, cloud kitchens | Every table becomes a till, a waiter and a marketing channel. | Growth Rs 2,499 | Rs 999 to 4,999 + Rs 4,999 setup | Petpooja, DotPe, Thrive |
+| [RepVault](https://github.com/craftLayer-studio/repvault/blob/main/README.md) | Gyms, yoga and fitness studios | Scan in, show up, renew on time. | Growth Rs 1,999 | Rs 999 to 3,499 | FitnessForce, Wellyx, Gymdesk |
+| [TurfTime](https://github.com/craftLayer-studio/turftime/blob/main/README.md) | Turfs, box cricket, courts, gaming cafes | Your own booking app, zero commission. | Growth Rs 2,999 | Rs 0 + Rs 19/booking to Rs 5,499 | Playo, Hudle, KheloMore |
+| [GlowDesk](https://github.com/craftLayer-studio/glowdesk/blob/main/README.md) | Salons, spas, barbershops | Fill every chair, bring every client back. | Growth Rs 1,499 | Free to Rs 2,999 | DINGG, Invoay, Fresha |
+| [CareQueue](https://github.com/craftLayer-studio/carequeue/blob/main/README.md) | Clinics, dental, physio, labs, vets | Wait from anywhere. Your token comes to your phone. | Clinic Rs 1,499 | Rs 699 to 2,999 | Practo Ray, Healthray, eSushrut@Clinic |
+| [StayBell](https://github.com/craftLayer-studio/staybell/blob/main/README.md) | Small hotels, homestays, guest houses | Every room rings you directly. | Direct Rs 2,499 | Rs 999 to 4,999 | eZee Absolute, Djubo, Desktell |
+| [NestKeep](https://github.com/craftLayer-studio/nestkeep/blob/main/README.md) | PGs, hostels, co-living | Full beds, rent on time, zero chasing. | Rs 20 to 35 per bed | min Rs 499 | RentOk, Stayqa, Room Rover |
+| [ShelfMate](https://github.com/craftLayer-studio/shelfmate/blob/main/README.md) | Kirana, general stores, pharmacies | Your shop on every customer's WhatsApp. | Dukaan Pro Rs 699 | Free to Rs 999 | Khatabook/OkCredit, Vyapar, myBillBook |
+| [WashTrack](https://github.com/craftLayer-studio/washtrack/blob/main/README.md) | Laundry, dry cleaners | Every garment tagged, every customer updated. | Growth Rs 1,299 | Rs 599 to 2,999 | QDC, Fabklean, Laundry Grow |
+| [ClassNest](https://github.com/craftLayer-studio/classnest/blob/main/README.md) | Coaching, tuition, academies | Every student marked, every parent informed, every fee collected. | Growth Rs 1,799 | Rs 999 to 3,499 | Classplus, Teachmint, Edmingle |
+| [GaragePilot](https://github.com/craftLayer-studio/garagepilot/blob/main/README.md) | Car/bike garages, car wash, detailing | Digital job cards, WhatsApp approvals, service reminders. | Workshop Rs 2,399 | Rs 1,199 to 4,499 | GaragePlug, Autorox, Tekmetric |
 
 ## 3. Which to build first
 
@@ -84,6 +84,6 @@ Plus one-time setup fees, QR kit and hardware margins, and WhatsApp credit margi
 |---|---|
 | Spreading too thin across 11 verticals | Strict sequence above; a vertical launches only when the previous one has 20+ paying outlets |
 | WhatsApp cost increases (Meta raised India marketing rates in 2026 and started charging some service messages) | Message allowances in plans, credits beyond that, SMS/RCS fallback |
-| DPDP compliance (main obligations around May 2027) | Consent built into Core from day one ([core/docs/compliance.md](../core/docs/compliance.md)) |
+| DPDP compliance (main obligations around May 2027) | Consent built into Core from day one ([core/docs/compliance.md](https://github.com/craftLayer-studio/craftlayer-core/blob/main/docs/compliance.md)) |
 | Large incumbents add QR + CRM features | Speed, price, done-for-you onboarding, vernacular support, multi-vertical cross-sell |
 | Name conflicts | Each product's AGENTS.md lists conflicts found and backup names; run an IP India trademark search before spending on branding |

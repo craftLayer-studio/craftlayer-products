@@ -1,0 +1,36 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/craftLayer-studio/craftlayer-core.git
+[submodule "dineloop"]
+	path = dineloop
+	url = https://github.com/craftLayer-studio/dineloop.git
+[submodule "repvault"]
+	path = repvault
+	url = https://github.com/craftLayer-studio/repvault.git
+[submodule "turftime"]
+	path = turftime
+	url = https://github.com/craftLayer-studio/turftime.git
+[submodule "glowdesk"]
+	path = glowdesk
+	url = https://github.com/craftLayer-studio/glowdesk.git
+[submodule "carequeue"]
+	path = carequeue
+	url = https://github.com/craftLayer-studio/carequeue.git
+[submodule "staybell"]
+	path = staybell
+	url = https://github.com/craftLayer-studio/staybell.git
+[submodule "nestkeep"]
+	path = nestkeep
+	url = https://github.com/craftLayer-studio/nestkeep.git
+[submodule "shelfmate"]
+	path = shelfmate
+	url = https://github.com/craftLayer-studio/shelfmate.git
+[submodule "washtrack"]
+	path = washtrack
+	url = https://github.com/craftLayer-studio/washtrack.git
+[submodule "classnest"]
+	path = classnest
+	url = https://github.com/craftLayer-studio/classnest.git
+[submodule "garagepilot"]
+	path = garagepilot
+	url = https://github.com/craftLayer-studio/garagepilot.git

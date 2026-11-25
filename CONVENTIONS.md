@@ -21,7 +21,7 @@ Every product folder follows the same structure so any human or AI agent can nav
 
 1. **Market focus:** India-first (Tier 1–3 cities), global-ready later. Prices in INR with USD equivalents.
 2. **No invented facts.** Every statistic, market size or competitor price carries a source link and access date. Anything unsourced is labelled **(estimate)** with its reasoning.
-3. **Build on the shared core.** Features that several products need (QR menus/catalogs, CRM, WhatsApp messaging, loyalty, payments, games, reviews, analytics) live in [`core/`](core/README.md). Product docs reference core modules instead of re-specifying them.
+3. **Build on the shared core.** Features that several products need (QR menus/catalogs, CRM, WhatsApp messaging, loyalty, payments, games, reviews, analytics) live in [`core/`](https://github.com/craftLayer-studio/craftlayer-core/blob/main/README.md). Product docs reference core modules instead of re-specifying them.
 4. **Compliance:** Any product collecting customer phone numbers must follow India's Digital Personal Data Protection Act 2023 and DPDP Rules 2025: clear notice, explicit opt-in, purpose limitation, easy opt-out, and WhatsApp template/opt-in policy.
 5. **Money first.** Every feature states which metric it moves: acquisition, activation, retention, revenue (ARPU) or referral.
 6. **Format:** GitHub-flavoured Markdown, tables for comparisons, headings in sentence case, no emoji.

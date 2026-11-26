@@ -2,6 +2,8 @@
 
 Vertical SaaS for India's offline small businesses. Each product puts a **QR code inside the business** so walk-in customers can order, book, check in or pay from their own phone, while the owner builds a **consented customer database** and brings customers back with **WhatsApp offers, loyalty and games**.
 
+Website: **[craftlayer.store](https://craftlayer.store)** · Contact: hello@craftlayer.store · Licensing: licensing@craftlayer.store
+
 One shared platform ([CraftLayer Core](https://github.com/craftLayer-studio/craftlayer-core/blob/main/README.md)) powers 11 vertical products.
 
 Each product and the core platform live in their own repository, included here as git submodules. To get everything in one folder:
@@ -10,19 +12,19 @@ Each product and the core platform live in their own repository, included here a
 git clone --recurse-submodules https://github.com/craftLayer-studio/craftlayer-products.git
 ```
 
-| Product | For | Repository |
-|---|---|---|
-| **DineLoop** | Restaurants, cafes, bars, cloud kitchens | [dineloop/](https://github.com/craftLayer-studio/dineloop/blob/main/README.md) |
-| **RepVault** | Gyms, yoga and fitness studios | [repvault/](https://github.com/craftLayer-studio/repvault/blob/main/README.md) |
-| **TurfTime** | Sports turfs, box cricket, courts, gaming cafes | [turftime/](https://github.com/craftLayer-studio/turftime/blob/main/README.md) |
-| **GlowDesk** | Salons, spas, barbershops | [glowdesk/](https://github.com/craftLayer-studio/glowdesk/blob/main/README.md) |
-| **CareQueue** | Clinics, dental, physio, labs, vets | [carequeue/](https://github.com/craftLayer-studio/carequeue/blob/main/README.md) |
-| **StayBell** | Small hotels, homestays, guest houses | [staybell/](https://github.com/craftLayer-studio/staybell/blob/main/README.md) |
-| **NestKeep** | PGs, hostels, co-living | [nestkeep/](https://github.com/craftLayer-studio/nestkeep/blob/main/README.md) |
-| **ShelfMate** | Kirana, general stores, pharmacies | [shelfmate/](https://github.com/craftLayer-studio/shelfmate/blob/main/README.md) |
-| **WashTrack** | Laundry and dry cleaners | [washtrack/](https://github.com/craftLayer-studio/washtrack/blob/main/README.md) |
-| **ClassNest** | Coaching, tuition, skill academies | [classnest/](https://github.com/craftLayer-studio/classnest/blob/main/README.md) |
-| **GaragePilot** | Car/bike garages, car wash, detailing | [garagepilot/](https://github.com/craftLayer-studio/garagepilot/blob/main/README.md) |
+| Product | For | Repository | App |
+|---|---|---|---|
+| **DineLoop** | Restaurants, cafes, bars, cloud kitchens | [dineloop/](https://github.com/craftLayer-studio/dineloop/blob/main/README.md) | [dineloop.craftlayer.store](https://dineloop.craftlayer.store) |
+| **RepVault** | Gyms, yoga and fitness studios | [repvault/](https://github.com/craftLayer-studio/repvault/blob/main/README.md) | [repvault.craftlayer.store](https://repvault.craftlayer.store) |
+| **TurfTime** | Sports turfs, box cricket, courts, gaming cafes | [turftime/](https://github.com/craftLayer-studio/turftime/blob/main/README.md) | [turftime.craftlayer.store](https://turftime.craftlayer.store) |
+| **GlowDesk** | Salons, spas, barbershops | [glowdesk/](https://github.com/craftLayer-studio/glowdesk/blob/main/README.md) | [glowdesk.craftlayer.store](https://glowdesk.craftlayer.store) |
+| **CareQueue** | Clinics, dental, physio, labs, vets | [carequeue/](https://github.com/craftLayer-studio/carequeue/blob/main/README.md) | [carequeue.craftlayer.store](https://carequeue.craftlayer.store) |
+| **StayBell** | Small hotels, homestays, guest houses | [staybell/](https://github.com/craftLayer-studio/staybell/blob/main/README.md) | [staybell.craftlayer.store](https://staybell.craftlayer.store) |
+| **NestKeep** | PGs, hostels, co-living | [nestkeep/](https://github.com/craftLayer-studio/nestkeep/blob/main/README.md) | [nestkeep.craftlayer.store](https://nestkeep.craftlayer.store) |
+| **ShelfMate** | Kirana, general stores, pharmacies | [shelfmate/](https://github.com/craftLayer-studio/shelfmate/blob/main/README.md) | [shelfmate.craftlayer.store](https://shelfmate.craftlayer.store) |
+| **WashTrack** | Laundry and dry cleaners | [washtrack/](https://github.com/craftLayer-studio/washtrack/blob/main/README.md) | [washtrack.craftlayer.store](https://washtrack.craftlayer.store) |
+| **ClassNest** | Coaching, tuition, skill academies | [classnest/](https://github.com/craftLayer-studio/classnest/blob/main/README.md) | [classnest.craftlayer.store](https://classnest.craftlayer.store) |
+| **GaragePilot** | Car/bike garages, car wash, detailing | [garagepilot/](https://github.com/craftLayer-studio/garagepilot/blob/main/README.md) | [garagepilot.craftlayer.store](https://garagepilot.craftlayer.store) |
 
 ## Start here
 

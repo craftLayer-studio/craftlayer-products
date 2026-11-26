@@ -49,11 +49,11 @@ git clone --recurse-submodules https://github.com/craftLayer-studio/craftlayer-p
 
 ## Related repositories
 
-- [craftLayer-studio/tabletap](https://github.com/craftLayer-studio/tabletap): working QR ordering prototype (M0) that becomes DineLoop's ordering module.
+- [craftLayer-studio/tabletap](https://github.com/craftLayer-studio/tabletap): DineLoop's application code: QR ordering, kitchen display, CRM, loyalty, games and campaigns.
 
 ## Status
 
-Planning and research stage, November 2026. Market figures are sourced with access dates. Anything unsourced is marked *(estimate)*. No customers or revenue yet.
+November 2026: every product has a working MVP in its repository (Next.js 16, Postgres via Drizzle, Astryx design system; DineLoop runs on the TableTap codebase). Each app runs with fictional demo data; WhatsApp, email and payments are simulated, and CI passes on all of them. Apps are not deployed yet; they will be served at `https://<product>.craftlayer.store`. Market figures are sourced with access dates; anything unsourced is marked *(estimate)*. No customers or revenue yet.
 
 ## Licence
 
